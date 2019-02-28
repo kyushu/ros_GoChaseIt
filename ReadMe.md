@@ -1,0 +1,1 @@
+# Simple Ros project shows how to setup the environment, moving the robot and display image of camera

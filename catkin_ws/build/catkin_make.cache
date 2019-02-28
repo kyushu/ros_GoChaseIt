@@ -1,0 +1,2 @@
+ball_chaser:main:my_robot
+-DCATKIN_DEVEL_PREFIX=/mtdata/Dropbox/udacity/RoboticsSoftwareEngineerND/Lesson_1/Project_1_Go_Chase_It/goChaseIt/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/mtdata/Dropbox/udacity/RoboticsSoftwareEngineerND/Lesson_1/Project_1_Go_Chase_It/goChaseIt/catkin_ws/install -G Unix Makefiles
