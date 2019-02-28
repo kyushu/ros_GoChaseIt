@@ -1,0 +1,8 @@
+prefix=/mtdata/Dropbox/udacity/RoboticsSoftwareEngineerND/Lesson_1/Project_1_Go_Chase_It/goChaseIt/catkin_ws/install
+
+Name: ball_chaser
+Description: Description of ball_chaser
+Version: 0.0.0
+Cflags: -I/mtdata/Dropbox/udacity/RoboticsSoftwareEngineerND/Lesson_1/Project_1_Go_Chase_It/goChaseIt/catkin_ws/install/include
+Libs: -L/mtdata/Dropbox/udacity/RoboticsSoftwareEngineerND/Lesson_1/Project_1_Go_Chase_It/goChaseIt/catkin_ws/install/lib 
+Requires: 
